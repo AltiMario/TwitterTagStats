@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export TWITTER_HANDLE="FIX ME"
+export OAUTH_APP_KEY="FIX ME"
+export OAUTH_APP_SECRET="FIX ME"
+export OAUTH_CONSUMER_KEY="FIX ME"
+export OAUTH_CONSUMER_SECRET="FIX ME"
+
+
